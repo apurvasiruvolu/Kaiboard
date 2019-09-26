@@ -23,6 +23,7 @@ namespace Kaiboard
 
         //shanthi edit1
         //shanthi dont edit
+        //sorry apurva I have to edit 
 
         //Working fine for Android 7.1 version and IOS - 13.0.0 Sept25 2019 - Apurva
         public async void camera_onbuttonClick(object sender, EventArgs e)
