@@ -142,6 +142,7 @@
       <IsAppExtension>true</IsAppExtension>
       <Project>{83443281-8720-4E48-AEFA-8E6E085C2F25}</Project>
       <Name>CustomKeyboard</Name>
+      <IsWatchApp>false</IsWatchApp>
     </ProjectReference>
   </ItemGroup>
 </Project>
